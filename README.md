@@ -1,7 +1,7 @@
 download.zerotier.com
 ======
 
-This is the git repository that drives our binary release site [download.zerotier.com](https://download.zerotier.com). It contains packages and binary isntallers for Linux, Mac, Windows, and other platforms as well as support files and other items.
+This is the git repository that drives our binary release site [download.zerotier.com](https://download.zerotier.com). It contains packages and installers for Linux, Mac, Windows, and other platforms as well as support files and other items.
 
 Releases are organized under `htdocs/RELEASES`, while `dist`, `debian`, and `redhat` are symbolically linked to the current. A history of releases is kept under RELEASES going back to 1.0.1.
 
