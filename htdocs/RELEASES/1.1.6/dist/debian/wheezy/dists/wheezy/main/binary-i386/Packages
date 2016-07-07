@@ -1,0 +1,21 @@
+Package: zerotier-one
+Priority: optional
+Section: net
+Installed-Size: 1255
+Maintainer: Adam Ierymenko <adam.ierymenko@zerotier.com>
+Architecture: i386
+Version: 1.1.6
+Depends: libc6 (>= 2.7), libgcc1 (>= 1:4.1.1), libstdc++6 (>= 4.6), iproute
+Filename: pool/main/z/zerotier-one/zerotier-one_1.1.6_i386.deb
+Size: 450164
+MD5sum: d12f8785927b09b586e4d98f70958c7c
+SHA1: 275a79e6576b980f6839794f395c2c6a98173502
+SHA256: 7ed49b5fabb471b2e94f9e44d2b1c254b862e494ef47f10db77a1de3220fdfb0
+SHA512: 558b760cc95cf00864570a0538a4144e41d015171b24671ef4e99d6c3dc7b83ccfb904ad3006b4900e52489d712d237719effb278df7605a895b5d5d7fe5b253
+Description: ZeroTier network virtualization service
+ ZeroTier One lets you join ZeroTier virtual networks and
+ have them appear as tun/tap ports on your system. See
+ https://www.zerotier.com/ for instructions and
+ documentation.
+Homepage: https://www.zerotier.com/
+
