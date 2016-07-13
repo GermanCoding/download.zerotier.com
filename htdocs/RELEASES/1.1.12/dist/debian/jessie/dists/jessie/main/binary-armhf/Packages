@@ -1,0 +1,21 @@
+Package: zerotier-one
+Priority: optional
+Section: net
+Installed-Size: 821
+Maintainer: Adam Ierymenko <adam.ierymenko@zerotier.com>
+Architecture: armhf
+Version: 1.1.12
+Depends: libc6 (>= 2.15), libgcc1 (>= 1:4.4.0), liblz4-1 (>= 0.0~r113), libnatpmp1, libstdc++6 (>= 4.9), init-system-helpers (>= 1.18~), iproute2
+Filename: pool/main/z/zerotier-one/zerotier-one_1.1.12_armhf.deb
+Size: 244414
+MD5sum: 2274ecbf8a6031fee5f425610b1f4280
+SHA1: 13920bcda79691a9953d6d95075d7288861b4823
+SHA256: 507d0b3b425f4bfe1508144fb3cce21c0aa7bbf2e7c5214c44f10075fbfcf459
+SHA512: b437bc5ca4f19459b85895bf5b1de1fb635d32dd5c848e5968d544d45d055dd7774ad495335e01d9b3a1718ada4a5a9a608946b39185813e304d8129e100f46e
+Description: ZeroTier network virtualization service
+ ZeroTier One lets you join ZeroTier virtual networks and
+ have them appear as tun/tap ports on your system. See
+ https://www.zerotier.com/ for instructions and
+ documentation.
+Homepage: https://www.zerotier.com/
+
