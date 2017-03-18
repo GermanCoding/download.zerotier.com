@@ -1,0 +1,21 @@
+Package: zerotier-one
+Priority: optional
+Section: net
+Installed-Size: 2111
+Maintainer: Adam Ierymenko <adam.ierymenko@zerotier.com>
+Architecture: arm64
+Version: 1.2.2
+Depends: init-system-helpers (>= 1.18~), iproute2, adduser
+Filename: pool/main/z/zerotier-one/zerotier-one_1.2.2_arm64.deb
+Size: 631522
+MD5sum: df0af39c9fec2e9b0fcae825cdbf9b3e
+SHA1: 96c720db587f1f36fa7cf99cf7d79b26cb42c2b4
+SHA256: e0c401473e64b33aee9a389351de318dc6d0b6a7c68280d1459e215ab22f16eb
+SHA512: a406c2f814b5b5b5a7ffa634f3fb979575ed28215dc346a270d58be916b7ff3b86deaea261bd887de6c9c42b27adf66f3ec1358ce56d8d0a1bbb0bd02f66fc3e
+Description: ZeroTier network virtualization service
+ ZeroTier One lets you join ZeroTier virtual networks and
+ have them appear as tun/tap ports on your system. See
+ https://www.zerotier.com/ for instructions and
+ documentation.
+Homepage: https://www.zerotier.com/
+
