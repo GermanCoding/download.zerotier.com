@@ -1,0 +1,21 @@
+Package: zerotier-one
+Priority: optional
+Section: net
+Installed-Size: 1421
+Maintainer: Adam Ierymenko <adam.ierymenko@zerotier.com>
+Architecture: armel
+Version: 1.2.4
+Depends: libc6 (>= 2.16), libgcc1 (>= 1:4.4.0), libstdc++6 (>= 4.9), init-system-helpers (>= 1.18~), iproute2, adduser
+Filename: pool/main/z/zerotier-one/zerotier-one_1.2.4_armel.deb
+Size: 465236
+MD5sum: 38999236131e7f4c634ef38cd05db238
+SHA1: de7775f0b10181c384a670fac1ed67b6bc147671
+SHA256: f829f93e4728950e7e21e72821aaaba4ce27c7e54fab46a7acd0a471451813d6
+SHA512: 8daed83188ed568fd163cfe1f796ec4bd05ccb940918b05b79003d5dfbe80b6a6a326f5ce590cca706ff38b4c202f64762d33c4921ed2ac51c0d439a0299729f
+Description: ZeroTier network virtualization service
+ ZeroTier One lets you join ZeroTier virtual networks and
+ have them appear as tun/tap ports on your system. See
+ https://www.zerotier.com/ for instructions and
+ documentation.
+Homepage: https://www.zerotier.com/
+

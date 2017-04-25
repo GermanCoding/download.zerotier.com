@@ -1,0 +1,21 @@
+Package: zerotier-one
+Priority: optional
+Section: net
+Installed-Size: 1737
+Maintainer: Adam Ierymenko <adam.ierymenko@zerotier.com>
+Architecture: mipsel
+Version: 1.2.4
+Depends: libc6 (>= 2.15), libgcc1 (>= 1:4.3), libstdc++6 (>= 4.9), init-system-helpers (>= 1.18~), iproute2, adduser
+Filename: pool/main/z/zerotier-one/zerotier-one_1.2.4_mipsel.deb
+Size: 502648
+MD5sum: 3e5f9583820d188920bb31329a4c8e1c
+SHA1: 2ede22893b3b154c0db6079c6de8321cc22ee2b7
+SHA256: 879d3f88ddb13a9d1d1639b4e86248ad0ea1c7ca53492d6d1429f28d4ec09fda
+SHA512: 92cd070b4a8c1c933827fa2d140ff752f4180a6f9d3ff9bce1be26ea3dcd086e619d607f3fbeaa83f5d7729637326e5107e1f49650fffa1f8d4a858b1e34d510
+Description: ZeroTier network virtualization service
+ ZeroTier One lets you join ZeroTier virtual networks and
+ have them appear as tun/tap ports on your system. See
+ https://www.zerotier.com/ for instructions and
+ documentation.
+Homepage: https://www.zerotier.com/
+
