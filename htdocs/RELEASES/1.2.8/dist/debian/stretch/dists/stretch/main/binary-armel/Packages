@@ -7,11 +7,11 @@ Architecture: armel
 Version: 1.2.8
 Depends: libc6 (>= 2.7), libgcc1 (>= 1:3.5), libstdc++6 (>= 6), init-system-helpers (>= 1.18~), iproute2, adduser
 Filename: pool/main/z/zerotier-one/zerotier-one_1.2.8_armel.deb
-Size: 501282
-MD5sum: eb76912d7e1cb203168aeb67b6f91e9a
-SHA1: f3036ca6f64e654ee7e97a5ac648c80dbc890287
-SHA256: dc2cac9d19d3eff4bb73db503f16a6c960486b30f9ff28c58220f145d0ec532e
-SHA512: ca4980b4f0bd5418e14e3c3b7f7207e3b7542a0aa49dc92e2e5aaac466db22d37e83be059bab845ecdd9df8be3743429e7723173947786e4962e4fcf0962eb70
+Size: 501314
+MD5sum: 7247b47a73a31f23a950aa388ca47b29
+SHA1: 95399f727647e4fc3a141b4e163e31a8652810a2
+SHA256: 25eaa7bb2d965dc72a2d07ed78eba62bc5e67983d7b4fe6f69273c9a6346c4ef
+SHA512: 44dfbe830dc62955d5a314876efd26864e55ec1d176130b121b89f993c189f46cd9b4787c5f5b22cf9b6ef1116669c74bebfd13f21629e7ef0cd7cf9fe9116fe
 Description: ZeroTier network virtualization service
  ZeroTier One lets you join ZeroTier virtual networks and
  have them appear as tun/tap ports on your system. See

@@ -7,11 +7,11 @@ Architecture: i386
 Version: 1.2.8
 Depends: init-system-helpers (>= 1.18~), lsb-base (>= 4.1+Debian11ubuntu7), iproute2, adduser, libstdc++6
 Filename: pool/main/z/zerotier-one/zerotier-one_1.2.8_i386.deb
-Size: 656632
-MD5sum: 878f9579b9e1f3cb066e5b995e214a63
-SHA1: fc78ff2b2eb721a3debba34e3867c73461879b53
-SHA256: 10dee097ae40915c38ea49bd7a933bb40f5596b6fd3ea7444d3cad17307784ae
-SHA512: 85efc62eaa884f127e4a9b456df51ca700b26c73ec71c58cc557721a0ad781e4d24ece3ce61a8a92155067813ff3bb88d2953dbd640d9c7ea6aa014b74d981c0
+Size: 656644
+MD5sum: 116e57e6ab2034980ea869a80e1646ab
+SHA1: d0722a50e4f8951ca5dd1757ce487405ba409acd
+SHA256: 4b295088c9f3fd6a05f2a9fd98af514540ff405888d063579ba70ef15e8a1f87
+SHA512: 07ff071accbe9cc57da465e0aaf75c808c55e8a986462fcad3698c22315f258b34ab49501c32122bd294087cd061a1f45d2e1f5e56afad980309be62e4fd6e73
 Description: ZeroTier network virtualization service
  ZeroTier One lets you join ZeroTier virtual networks and
  have them appear as tun/tap ports on your system. See

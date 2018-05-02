@@ -7,11 +7,11 @@ Architecture: mips
 Version: 1.2.8
 Depends: libc6 (>= 2.7), libgcc1 (>= 1:4.2), libstdc++6 (>= 6), init-system-helpers (>= 1.18~), iproute2, adduser
 Filename: pool/main/z/zerotier-one/zerotier-one_1.2.8_mips.deb
-Size: 552852
-MD5sum: 7e15712759765cb94b5ac2aa9ab02a54
-SHA1: 699207f501f981168ede8ce4971635485556d288
-SHA256: 40f5f2d7bb2f47e3edcffff9e7c254f02dbdbacdd7a0522157a606f7f7967d83
-SHA512: 48dea52f61ea4b22ddd7f5502b990720c8dfc7214b08c06b509f8959bf35fc89b6b7803fbc3f2a419b39466dbd161c89107fca7091cea9f6ad70f7598b7fa9f9
+Size: 552884
+MD5sum: efc3049533a4effff96f2658ff054a37
+SHA1: ae7755d7e621ffe65c3c9046caccbbdb51502365
+SHA256: 0d13396954eb84ec81d171382e122da583e5d1bcb84a71de5e4f6885762ea547
+SHA512: ee467e7f38b61daa1afa606743ac0f2ad2145d2d13f47bfdee175de93a50320afa8159d6811751b7acc4827d0a89457be082eb5d2964611b0a86bd5502259464
 Description: ZeroTier network virtualization service
  ZeroTier One lets you join ZeroTier virtual networks and
  have them appear as tun/tap ports on your system. See

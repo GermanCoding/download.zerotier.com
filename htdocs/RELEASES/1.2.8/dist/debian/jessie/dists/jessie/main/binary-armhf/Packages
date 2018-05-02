@@ -7,11 +7,11 @@ Architecture: armhf
 Version: 1.2.8
 Depends: init-system-helpers (>= 1.18~), iproute2, adduser, libstdc++6
 Filename: pool/main/z/zerotier-one/zerotier-one_1.2.8_armhf.deb
-Size: 678538
-MD5sum: af2dbec510ceddfc7ab8423cfb903567
-SHA1: b492f6b513f2266ff84b78f0b890f905a9cd935a
-SHA256: 4b9a7df0426bce04ee32156cebcabfee745a5682d15e493a84ee6776139af9c3
-SHA512: 0ccfda20e04dd13154d4eb5a665235328ab4baeebf24d2cc1e52732c230baa67a68a6d23a807bf2451598453bb773c82d6878f494fae9195d642777b57553dd2
+Size: 678716
+MD5sum: 315b874c09f02c9cfdea852f137eeaf7
+SHA1: 72c88b35e4f6d75de8b7733013de8c590251885a
+SHA256: 2113c2e620bebf3d7cb39e5137f54ffc4509ddfc7257dfbe23d01695f8fbba3f
+SHA512: 95314d7f39e524b6d9f276abda4082a28066404756b6c61a781f252f86e475df2631a86422bcc95db9fc53ce8e91972c43b6e71db990281417cff0806b3b8a1c
 Description: ZeroTier network virtualization service
  ZeroTier One lets you join ZeroTier virtual networks and
  have them appear as tun/tap ports on your system. See

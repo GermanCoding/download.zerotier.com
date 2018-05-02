@@ -7,11 +7,11 @@ Architecture: arm64
 Version: 1.2.8
 Depends: sysv-rc (>= 2.88dsf-24) | file-rc (>= 0.8.16), iproute, libstdc++6
 Filename: pool/main/z/zerotier-one/zerotier-one_1.2.8_arm64.deb
-Size: 524776
-MD5sum: b8b87cc9f6a3a063635588e34759b39e
-SHA1: be6dce78a9b103632b83ccd07ff5464aa3039462
-SHA256: 3f2d8ebf008bc738d64b44fa2dca17efe577d032cc376aa780b7b3a2968a27a7
-SHA512: 00fc27621220e9ee56d40fbb44b83185b9ad8761afa6bb5d3f52d69d0e5da7c810dbca4690e4237459249604fdf64ea5274f69a39093ec26ed5d088969f3f84d
+Size: 524772
+MD5sum: 8bea5a8129dd232b69d95d1c96981318
+SHA1: 8908ae172cb171c915e514e70caa6ab9cd355d14
+SHA256: 2651890df3264176b401bc52a29e09cad9b580938d0b3925e6a705b929481694
+SHA512: 2ecdd2024b48a2b0ea54e8acedb334ddf28f1ca308c0f8bb1667e502a0de16486bdc3e8659d4162f5f38facc57db1846e51719f9ba0508aac44f7fcf24d7cb52
 Description: ZeroTier network virtualization service
  ZeroTier One lets you join ZeroTier virtual networks and
  have them appear as tun/tap ports on your system. See

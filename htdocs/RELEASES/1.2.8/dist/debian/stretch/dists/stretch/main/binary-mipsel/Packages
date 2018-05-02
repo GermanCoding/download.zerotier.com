@@ -7,11 +7,11 @@ Architecture: mipsel
 Version: 1.2.8
 Depends: libc6 (>= 2.7), libgcc1 (>= 1:4.2), libstdc++6 (>= 6), init-system-helpers (>= 1.18~), iproute2, adduser
 Filename: pool/main/z/zerotier-one/zerotier-one_1.2.8_mipsel.deb
-Size: 562342
-MD5sum: ec810c36238ca7feeda9abcadd8fa1e5
-SHA1: 299899511681ca1b34689983ed235214a61146cb
-SHA256: 765a71452ebf90fc391842be992008b735d27f7373088622d207558010a0dced
-SHA512: 51376e70707ef5d588ab1a7873c2818d23a8f3ebc77df15d8812a2b7b7463a2df492825751530f095583df45e12b74ce4280e59eba9385ccde43d621ef8b285c
+Size: 562374
+MD5sum: c181f7bcc5e0e20191ba579bd17d5521
+SHA1: d29f9cb81fe9214c4f3ec440fee2c239c406b1bf
+SHA256: 5d9830dc7b2b809ae8193ddd42abaa2f2c819ced883278dd48d50f8f10ca9d50
+SHA512: 0b4c6af8f69ba26c09284e310ea71f4c1689d985a672930f5dbb01e0f0160ceb0bd518aad51b40c6f5413625d6e5bf43520d90d7e5a9eb8488996570db67f3d0
 Description: ZeroTier network virtualization service
  ZeroTier One lets you join ZeroTier virtual networks and
  have them appear as tun/tap ports on your system. See

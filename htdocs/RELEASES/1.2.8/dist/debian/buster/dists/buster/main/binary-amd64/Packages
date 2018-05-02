@@ -7,11 +7,11 @@ Architecture: amd64
 Version: 1.2.8
 Depends: iproute2, adduser, libstdc++6
 Filename: pool/main/z/zerotier-one/zerotier-one_1.2.8_amd64.deb
-Size: 648832
-MD5sum: f98a76920344ea2e3995f5dffb07ecad
-SHA1: a50f4748155d5ea180df4182a5e0fba085263d73
-SHA256: 95b759337873607dfdab9c887b8d20952686fa09d1d119ce85587ce8fc0f525f
-SHA512: 25291c0f4bdd31790ea0f78dfa06d7bfc77736cc993222176b139d5bb9bce198119ec2667b8cd118915a26c2daa0b779d0168d38ea99afca97fd9ed5e120662b
+Size: 648856
+MD5sum: ad145d3976c82ca5d69bf081ee681b8c
+SHA1: 03e65baedb165a3ad7fc30507a411407bd90f013
+SHA256: b9523f3d8609c1763cd503601356d33151783be8d7602952eae6fc021c69acc0
+SHA512: 65286ccd5c3bb1d8a53c6166b1ff5aac45b17ded5240fad84e522eeccf6b44a838512c30385cdfd4feb54eeba88ddde5784599613d011d9a8adb1c920299aad5
 Description: ZeroTier network virtualization service
  ZeroTier One lets you join ZeroTier virtual networks and
  have them appear as tun/tap ports on your system. See
