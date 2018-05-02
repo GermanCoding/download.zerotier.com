@@ -1,0 +1,21 @@
+Package: zerotier-one
+Priority: optional
+Section: net
+Installed-Size: 1453
+Maintainer: Adam Ierymenko <adam.ierymenko@zerotier.com>
+Architecture: ppc64el
+Version: 1.2.8
+Depends: libc6 (>= 2.17), libgcc1 (>= 1:3.0), libstdc++6 (>= 5.2), init-system-helpers (>= 1.18~), lsb-base (>= 4.1+Debian11ubuntu7), iproute2, adduser
+Filename: pool/main/z/zerotier-one/zerotier-one_1.2.8_ppc64el.deb
+Size: 462772
+MD5sum: 5646f640440c44c131e8588a51c12dc0
+SHA1: 460ba04a7eabd44b670899acfc51378bdf6f2af8
+SHA256: e5cf6b6e7c7842a7571a42f06cf600c1396eb95c82b37b0344785add6b5b87a7
+SHA512: 603e52a93c73c71f695d19adc96c98bf81ff99645ad47e7ee55ae3cdfb8f12dc3908c675b2e77d7ac455dcd69a79328fa349ee152d8919b54f78470af8dffef6
+Description: ZeroTier network virtualization service
+ ZeroTier One lets you join ZeroTier virtual networks and
+ have them appear as tun/tap ports on your system. See
+ https://www.zerotier.com/ for instructions and
+ documentation.
+Homepage: https://www.zerotier.com/
+
